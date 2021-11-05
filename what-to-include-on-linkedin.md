@@ -1,3 +1,5 @@
+# Async: What to include on your LinkedIn profile
+
 > **Presenter:** Crystal & @Andrew Hedges
 
 > **Homework:** Please spend at least **1 hour on Tuesday** watching the videos below and working on your LinkedIn profile in preparation for a Q&A session.

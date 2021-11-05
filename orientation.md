@@ -1,3 +1,5 @@
+# Sync: Career Lab kickoff
+
 > **Presenters:** @Andrew Hedges & @Stacie Taylor-Cima
 
 > **Homework:** None!
