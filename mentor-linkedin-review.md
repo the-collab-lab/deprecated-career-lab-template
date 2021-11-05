@@ -1,0 +1,16 @@
+# Async: LinkedIn profile submitted to and reviewed by mentor
+
+> After you have completed the pre-work and Q&A sessions for improving your LinkedIn profile, we will connect you with a mentor who will review it and give you feedback.
+
+
+## Collabies:
+
+Please ping your assigned mentor with your profile that is ready for review by June 3rd!
+
+## Mentors:
+
+Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13XNS73/p1614915073114000?thread_ts=1614915062.113600&cid=C01L13XNS73) submitted to Collabies by June 6th.
+
+---
+
+Linkedin Review Pairings: insert pairings
