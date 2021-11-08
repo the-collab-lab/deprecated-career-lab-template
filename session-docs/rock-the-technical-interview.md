@@ -1,8 +1,6 @@
 # Sync: How to rock the technical interview
 
-> **Presenter: @Scott Reu**
-**Homework:** Find a partner and practice a mock-interview
->
+> **Presenter: @Scott Reu** > **Homework:** Find a partner and practice a mock-interview
 
 ## Resources
 
@@ -33,7 +31,7 @@ If you would like to learn more tips, here are a few links to help you:
 **Building contextual awareness of the main focus of the interview via your recruiter** In most cases, your recruiter will prepare you with a list of people and general overview of what you will be covering. This is helpful and can allow you to do a couple of things:
 
 1. Build out your plan of attack for studying
-   There's so much to study! Algorithms, data structures, computational complexity! Do ***not*** focus on cramming **all** the things. One strategy is to brush up on the foundations of things you're really strong at, and study the items that you need to pick up on in order to speak to their purposes, use cases, and how you may have used them in the past (or how they may be used with something you know well).
+   There's so much to study! Algorithms, data structures, computational complexity! Do **_not_** focus on cramming **all** the things. One strategy is to brush up on the foundations of things you're really strong at, and study the items that you need to pick up on in order to speak to their purposes, use cases, and how you may have used them in the past (or how they may be used with something you know well).
 2. Build out your strengths and areas for growth
    This will be useful in one of the next tips we cover (how do you admit you don't know something?), but also allow you to optimize for types of questions you ask as you go along.
 3. Develop the questions you'll have for each member
@@ -41,13 +39,13 @@ If you would like to learn more tips, here are a few links to help you:
 
 **How will I know I can build this awareness?** Recruiters will provide the information on your interview panels in a couple of ways. The most direct way is by giving you a schedule and resources, like an org chart or an overview of engineering at the company, to understand the engineering organization better. If you find that this isn't proactively offered, you can ask if they can provide you the names of the people you'll be interviewing with and the focus for each interviewer.
 
-**The actual interview session** Remember that interviewing is a two-way street! You are there to ask questions as well. Your job is not to be perfect, it's to *be you and display your communication, collaboration **and** technical skills!*
+**The actual interview session** Remember that interviewing is a two-way street! You are there to ask questions as well. Your job is not to be perfect, it's to _be you and display your communication, collaboration **and** technical skills!_
 
-1. **Comments/Notes are your friend!** If you are using a platform where you have an online coding environment, use it like a whiteboard! Detail your notes and thoughts as you work on the challenge in code comments - this is like a blue book in math class, as it allows you to "show your work". Many interviewers are not looking for just the speed of a solution, but *how* you get to the solution.
+1. **Comments/Notes are your friend!** If you are using a platform where you have an online coding environment, use it like a whiteboard! Detail your notes and thoughts as you work on the challenge in code comments - this is like a blue book in math class, as it allows you to "show your work". Many interviewers are not looking for just the speed of a solution, but _how_ you get to the solution.
 2. **Comment before you code!** Use your comments to pseudocode before you start writing hard code! This is the first step to understanding exactly what you're building here. And it allows you to ensure you understand what's being asked of you so you can then...
 3. **Ask clarifying questions!** Make sure that you understand the question, ask the interviewer for an example, and if they provide one before you ask, make sure to add one example of your own to verify that you have a good understanding of the problem you need to solve. You may be expected to discuss and discover any edge cases as well.
 4. **Gut check your solution!** Talk through your solution before you write any code, you can write pseudo code / comments to make sure you don't forget anything Once the interviewer agrees that you are onto a good path, start coding in your choice of programming language.
-5. **If you're writing code, write it like code!** If you're using a coding environment, *use proper coding standards!* Use your Collab Lab and other experiences to fuel how you name your variables, functions and other parts of the code. You don't have to start with a perfectly architected, multiple file approach, but code your solution with a rough idea of improved code structure as you go.
+5. **If you're writing code, write it like code!** If you're using a coding environment, _use proper coding standards!_ Use your Collab Lab and other experiences to fuel how you name your variables, functions and other parts of the code. You don't have to start with a perfectly architected, multiple file approach, but code your solution with a rough idea of improved code structure as you go.
 6. **Tests - how many of us have them!** Even if they don't bring it up explicitly, discuss acceptance criteria and testing! You may not have to write unit tests, but you should be able to form a general opinion on how to test the code you write. You should make sure you have a clear definition of done, as well as steps to ensure your code meets that mark.
 
 Andrew's off-the-cuff thoughts:
@@ -59,24 +57,25 @@ Andrew's off-the-cuff thoughts:
 
 Indira's notes:
 Some steps of things to do while you are doing the interview:
-1) Make sure that you understand the question, ask the interviewer for an example, if they provide one before you ask, make sure to add one example of your own to verify that you have a good understanding of the problem you need to solve.
-2) Ask clarifying questions, sometimes the interviewer provides intentionally incomplete content to make sure that you are asking the right questions, think about edge cases, and confirm the expected behaviors for those (think empty string, null values, same values ... )
 
-3) Talk through your solution before you write any code, you can write pseudo code / comments to make sure you don't forget anything
+1. Make sure that you understand the question, ask the interviewer for an example, if they provide one before you ask, make sure to add one example of your own to verify that you have a good understanding of the problem you need to solve.
+2. Ask clarifying questions, sometimes the interviewer provides intentionally incomplete content to make sure that you are asking the right questions, think about edge cases, and confirm the expected behaviors for those (think empty string, null values, same values ... )
 
-4) Once the interviewer agrees that you are onto a good path, start coding in your choice of programming language.
+3. Talk through your solution before you write any code, you can write pseudo code / comments to make sure you don't forget anything
 
-5) Make sure to talk while you are writing your code why you are doing what you are doing while you write the code, which requirement the code you are writing satisfies.
+4. Once the interviewer agrees that you are onto a good path, start coding in your choice of programming language.
 
-6) Look at your code again and see if there is any area for improvement, maybe you added variables that you ended up not using, think of it as your self-review of a pull request you did in the collab lab.
+5. Make sure to talk while you are writing your code why you are doing what you are doing while you write the code, which requirement the code you are writing satisfies.
 
-7) Walk through an example of the ones you established in step 1, either provided by the interviewer or you and walk line by line, and add how each of the variables are changing on each iteration. Some people suggest using a table with all your variables and listing what each of them are. You may need to make some updates while you are doing this (think of off by one type of errors)
+6. Look at your code again and see if there is any area for improvement, maybe you added variables that you ended up not using, think of it as your self-review of a pull request you did in the collab lab.
 
-8) If you are able to run the code (CoderPad) then this is the point where you think about running the code after you went line by line on what everything was supposed to be.
+7. Walk through an example of the ones you established in step 1, either provided by the interviewer or you and walk line by line, and add how each of the variables are changing on each iteration. Some people suggest using a table with all your variables and listing what each of them are. You may need to make some updates while you are doing this (think of off by one type of errors)
+
+8. If you are able to run the code (CoderPad) then this is the point where you think about running the code after you went line by line on what everything was supposed to be.
 
 ## Rocking the situational aspect of your technical interview
 
-**When's the last time you were faced with ____________?** Hypotheticals can be scary, but always stick to the "spirit" of the question, and not the literal. Think of how situations you've been in, technical AND non-technical, in your career that illustrative dealing with this challenge
+**When's the last time you were faced with \*\***\_\_\_\_\***\*?** Hypotheticals can be scary, but always stick to the "spirit" of the question, and not the literal. Think of how situations you've been in, technical AND non-technical, in your career that illustrative dealing with this challenge
 
 **[Whiteboard] System Design and Resilience** You may get asked to describe how you would solve a certain challenge, and diagram it out on a whiteboard or in chat. Say you're discussing building a set of react components that also are used to fetch data across a front-end app. What are some typical challenges you may face? What have you faced? How would you solve them?
 

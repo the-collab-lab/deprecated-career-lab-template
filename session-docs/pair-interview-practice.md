@@ -14,4 +14,13 @@ Once you've met and practiced, check the box above next to your name to mark tha
 
 If you have questions or comments, please don't hesitate to reach out in [#career-lab-spring-2021](https://the-collab-lab.slack.com/archives/C022D9Z0QD7)!
 
-Interview Practice Partners: insert pairings here
+Interview Practice Partners: 
+
+| Collabie | Collabie |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |

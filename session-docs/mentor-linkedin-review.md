@@ -2,7 +2,6 @@
 
 > After you have completed the pre-work and Q&A sessions for improving your LinkedIn profile, we will connect you with a mentor who will review it and give you feedback.
 
-
 ## Collabies:
 
 Please ping your assigned mentor with your profile that is ready for review by June 3rd!
@@ -13,4 +12,13 @@ Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13
 
 ---
 
-Linkedin Review Pairings: insert pairings
+Linkedin Review Pairings: 
+
+| Collabie | Mentor |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |

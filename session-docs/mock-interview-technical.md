@@ -5,7 +5,7 @@ Each Collabie will be paired with a mentor for the technical mock interview.
 The interviews will run a maximum of 1 hour, including time for you to ask questions about the role and company as well as time for the mentor to give feedback on the content and style of your responses.
 
 <aside>
-💻 **Technical interviews** are designed to assess the level of your technical skills. These interviews can take many formats. Sometimes they are a review of a take-home assignment you’ll have completed ahead of time. Sometimes they might involve “white-boarding” a technical solution on the spot. These interviews also typically include more general questions about programming and problem-solving.
+💻 <strong>Technical interviews</strong> are designed to assess the level of your technical skills. These interviews can take many formats. Sometimes they are a review of a take-home assignment you’ll have completed ahead of time. Sometimes they might involve “white-boarding” a technical solution on the spot. These interviews also typically include more general questions about programming and problem-solving.
 
 </aside>
 
@@ -25,4 +25,14 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 
 ---
 
-Technical Interview Pairings: insert pairing
+Technical Interview Pairings:
+
+| Collabie | Mentor |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+
