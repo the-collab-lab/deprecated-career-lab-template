@@ -23,7 +23,7 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 - General job-fit interview questions from the [Job fit interview questions](https://www.notion.so/Job-fit-interview-questions-678a5439ea5b43a196bf48fe397eff0f) **[30 minutes]**
 - Debrief and provide feedback **[20 minutes]**
 - **After the interview:**
-    - Check the done box on the table below
+  - Check the done box on the table below
 
 ---
 

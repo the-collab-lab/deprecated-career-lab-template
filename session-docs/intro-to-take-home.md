@@ -4,7 +4,6 @@
 
 > **Homework:** Complete the take-home assignment. You can pair with your assigned partner below to plan an approach.
 
-
 In this session, we will describe in more detail what is expected of you for the take home assignment. This will be your opportunity to ask any clarifying questions before you work on it.
 
 ## Resources

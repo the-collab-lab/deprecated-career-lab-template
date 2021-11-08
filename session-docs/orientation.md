@@ -3,7 +3,6 @@
 > **Presenters:** @Andrew Hedges & @Stacie Taylor-Cima
 
 > **Homework:** None!
->
 
 # Let’s do this! Let’s get you that first/next tech job!!!
 
