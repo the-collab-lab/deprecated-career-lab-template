@@ -5,7 +5,7 @@ Each Collabie will be paired with a mentor for a job-fit interview.
 The interviews will run a maximum of 1 hour, including time for you to ask questions about the role and company as well as time for the mentor to give feedback on the content and style of your responses.
 
 <aside>
-🤝 **Job fit interviews** typically happen early in the recruiting process. They are designed to assess whether you have the background and skills needed for the open role. They may also attempt to assess your alignment to the company’s values and culture.
+🤝 <strong>Job fit interviews</strong> typically happen early in the recruiting process. They are designed to assess whether you have the background and skills needed for the open role. They may also attempt to assess your alignment to the company’s values and culture.
 
 </aside>
 
@@ -27,4 +27,13 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 
 ---
 
-Job-Fit Interview Pairings: insert pairings
+Job-Fit Interview Pairings:
+
+| Collabie | Mentor |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |

@@ -12,4 +12,13 @@ Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13
 
 ---
 
-Linkedin Review Pairings: insert pairings
+Linkedin Review Pairings: 
+
+| Collabie | Mentor |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |

@@ -14,4 +14,13 @@ In this session, we will describe in more detail what is expected of you for the
 
 ➡️ More info about the assignment itself is available on [Async: Complete take home assignment](https://www.notion.so/Async-Complete-take-home-assignment-5b1ec5e3a0764a0b8a0d35a81e1d248e)
 
-Partner with a friend to get rolling on the take-home assignment: insert table of pairs
+Partner with a friend to get rolling on the take-home assignment: 
+
+| Collabie | Collabie |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
+| ---- | ---- |
