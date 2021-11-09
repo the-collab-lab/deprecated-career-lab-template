@@ -12,8 +12,9 @@ Please have review and [rubric](https://the-collab-lab.slack.com/archives/C01L13
 
 ---
 
-Linkedin Review Pairings: 
-
+Linkedin Review Pairings:
+[comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
+[comment]: <> (TODO: move this script into this project somehow)
 | Collabie | Mentor |
 | ---- | ---- |
 | ---- | ---- |
