@@ -26,7 +26,8 @@ The interviews will run a maximum of 1 hour, including time for you to ask quest
 ---
 
 Technical Interview Pairings:
-
+[comment]: <> (Populate using the values in this CodeSandbox: https://codesandbox.io/s/career-lab-pairings-u1qmj?file=/src/App.js)
+[comment]: <> (TODO: move this script into this project somehow)
 | Collabie | Mentor |
 | ---- | ---- |
 | ---- | ---- |
