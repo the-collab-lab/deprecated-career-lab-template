@@ -12,4 +12,3 @@ The list of sessions and activities can be found on [the schedule page](https://
 
 ![](https://media.giphy.com/media/3BMtWpQEVqwNk1aNWR/giphy.gif)
 
-Watch the recording here: [Career Lab Orientation | Fall 2021](https://www.youtube.com/watch?v=SR3zq7F7JZs&t=4s)
