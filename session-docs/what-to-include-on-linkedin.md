@@ -1,6 +1,6 @@
 # Async: What to include on your LinkedIn profile
 
-> **Presenter:** Crystal & @Andrew Hedges
+> **Presenter:** Crystal Ony Mbanefo & Andrew Hedges
 
 > **Homework:** Please spend at least **1 hour on Tuesday** watching the videos below and working on your LinkedIn profile in preparation for a Q&A session.
 
@@ -12,9 +12,13 @@ In this lesson, we will go over each of the main parts of a LinkedIn profile. To
 
 # Let’s get started!
 
+> En éste link pueden ver notas en español donde podrán encontrar un resúmen de los videos en “What to include on your LinkedIn profile” 
+> 
+> [Spanish - What to include on your Linkedin profile](./what-to-include-on-linkedin-spanish.md)
+
 ### Part 1: Photo, title, background, About Section, Featured Section
 
-**Here’s the video**: [https://www.loom.com/share/abada08ad9a54e6e9b294b7ae5b758cc](https://www.notion.so/abada08ad9a54e6e9b294b7ae5b758cc)
+**Here’s the video**: [https://www.loom.com/share/abada08ad9a54e6e9b294b7ae5b758cc](https://www.loom.com/share/abada08ad9a54e6e9b294b7ae5b758cc)
 
 - Photo - See what a good or bad photo looks like
 - Title - See what a good or bad title looks like
@@ -29,7 +33,7 @@ In this lesson, we will go over each of the main parts of a LinkedIn profile. To
 
 ### Part 2: Video - Experience section, education section, certifications, volunteer experience
 
-**Here’s the video**: [https://www.loom.com/share/4306990ea09249bb8c5d5e8c744e5441](https://www.notion.so/4306990ea09249bb8c5d5e8c744e5441)
+**Here’s the video**: [https://www.loom.com/share/4306990ea09249bb8c5d5e8c744e5441](https://www.loom.com/share/4306990ea09249bb8c5d5e8c744e5441)
 
 - Experience section - CollabLab experience (self-employed, Full-stack developer,...), simple English used, always bullet points.
 - Education section - put tech stacks and end dates for each education experience
@@ -38,7 +42,7 @@ In this lesson, we will go over each of the main parts of a LinkedIn profile. To
 
 ### Part 3: Video - Endorsements, recommendations, accomplishments, interests, open to work, URL settings
 
-**Here’s the video**: [https://www.loom.com/share/23450a56da8f4d4996177b4e8e55673f](https://www.notion.so/23450a56da8f4d4996177b4e8e55673f)
+**Here’s the video**: [https://www.loom.com/share/23450a56da8f4d4996177b4e8e55673f](https://www.loom.com/share/23450a56da8f4d4996177b4e8e55673f)
 
 - Skills and Endorsements - Endorse a Collabie and get them to endorse you for a skill (Optional)
 - Recommendations - Recommend a Collabie and get a recommendation from them

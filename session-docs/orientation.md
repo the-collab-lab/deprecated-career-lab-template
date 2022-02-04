@@ -1,9 +1,7 @@
 # Sync: Career Lab kickoff
 
-> **Presenters:** @Andrew Hedges & @Stacie Taylor-Cima
-
-> **Homework:** None!
-
+> **Presenters:** @Andrew Hedges & @Stacie Taylor
+> 
 # Let’s do this! Let’s get you that first/next tech job!!!
 
 Your mentors have been working super hard to put together a program we think is going to kick start your job search. We couldn’t be more excited to spend the 2 weeks of our very first Career Lab helping get you to a spot where you make a good first impression to recruiters and hiring managers!
@@ -13,3 +11,5 @@ Career Lab is a combination of presentations, videos, reading materials, and pra
 The list of sessions and activities can be found on [the schedule page](https://www.notion.so/6cd08403f262494a9df67499a8bf89ae).
 
 ![](https://media.giphy.com/media/3BMtWpQEVqwNk1aNWR/giphy.gif)
+
+Watch the recording here: [Career Lab Orientation | Fall 2021](https://www.youtube.com/watch?v=SR3zq7F7JZs&t=4s)

@@ -2,4 +2,3 @@
 
 > Presenter: @Lucas Casarez
 
-> Homework: ...
