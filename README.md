@@ -12,12 +12,12 @@
 | Tues, [DATE]                                | Sync  | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
 | Wed, [DATE]                                 | Sync  | [Linkedin Profile Q&A](./session-docs/linkedin-qanda.md)                                                 |
 | Wed, [DATE] - Sat, [DATE]                     | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
-| Thurs, [DATE]                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
-| Sat, [DATE] - your mock interviews          | Sync  | [Pair interview practice (optional)](./session-docs/pair-interview-practice.md)                                     |
+| Fri, March 10th @ 1PM PT                        | Sync  | [What to ask your interviewers Q&A](./session-docs/what-to-ask-your-interviewers.md)                     |
+| Thurs, [DATE]                               | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
+| Sun, [DATE] - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                         |
+| Sat, [DATE] - your mock interviews          | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
 | Sun, [DATE]                                 | Sync  | [How to rock the technical interview](./session-docs/rock-the-technical-interview.md)                    |
-| Sun, [DATE]                                 | Sync  | [Intro to the take-home assignment](./session-docs/intro-to-take-home.md)                                |
-| Sun, [DATE] - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                          |
 | Mon, [DATE] - Sat, [DATE]                    | Sync  | [Technical mock interview](./session-docs/mock-interview-technical.md)                                   |
 | Mon, [DATE] - Sat, [DATE]                    | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
-| Thurs, [DATE]                               | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
+| Thurs, [DATE]                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) 
 | Sun, [DATE]                                 | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
