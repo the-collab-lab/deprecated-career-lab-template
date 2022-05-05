@@ -1,4 +1,4 @@
-Tenemos 3 videos donde Crystal habla sobre cómo mejorar nuestro LinkedIn. 
+Tenemos 3 videos donde Crystal habla sobre cómo mejorar nuestro LinkedIn.
 
 ## Parte 1: Photo, title, background header, about, featured section.
 
@@ -81,18 +81,18 @@ Es la sección más importante o una de las secciones más importantes de Linked
 1. **[0:50]** Mala experiencia #1: Solo se pone la posición, pero no se incluye información sobre lo que hizo en dicha posición. Esto no ayuda a las personas que revisan perfiles a poder entender qué hicieron en esa posición, ya que por ejemplo un "Technical Solutions Consultant" puede significar una cosa para una empresa, y una cosa diferente para otra empresa, por lo que puede hacer que el recruiter decida no tener en cuenta el perfil.
 2. **[1:40]** Mala experiencia #2: Hay más información sobre la posición, pero no se entiende ya que el inglés que se está usando es muy complejo. No quieres que no lo entienda un reclutador o la persona que está revisando tu perfil.
 3. **[2:40]** Buena experiencia #1:  Importante que lo pueda entender un reclutador o un hiring manager.
-    - **[4:20]** Escoger un título acorde a la experiencia o al rol que se quiera ejecutar (e.g. Full-stack developer). El título se usa como palabras clave cuando buscan perfiles en LinkedIn.
-    - **[4:48]** Usar bullet points para mostrar los logros y/o fortalezas conseguidas en cada posición.
-    - **[4:58]** Usar un inglés más simple, claro y directo al grano. (ej "Led the Code Connector community and organize the largest tech meetups in Memphis").
+   - **[4:20]** Escoger un título acorde a la experiencia o al rol que se quiera ejecutar (e.g. Full-stack developer). El título se usa como palabras clave cuando buscan perfiles en LinkedIn.
+   - **[4:48]** Usar bullet points para mostrar los logros y/o fortalezas conseguidas en cada posición.
+   - **[4:58]** Usar un inglés más simple, claro y directo al grano. (ej "Led the Code Connector community and organize the largest tech meetups in Memphis").
 4. **[5:20]** Mala experiencia #3 (early-career engineers):
-    - No usar palabras como "newbie" (novato), ya que LinkedIn es el lugar para demostrar tus fortalezas.
-    - Muestra que habilidades has aprendido (e.j. HTML, CSS).
-    - Sería bueno incluir eventos y conferencias en los que has participado.
+   - No usar palabras como "newbie" (novato), ya que LinkedIn es el lugar para demostrar tus fortalezas.
+   - Muestra que habilidades has aprendido (e.j. HTML, CSS).
+   - Sería bueno incluir eventos y conferencias en los que has participado.
 5. **[7:10]** Buena experiencia #2 (early-career engineers):
-    - **[7:34]** Remover frases como "different technologies, languages, and frameworks", y en lugar de eso ser más explícito e incluir por ejemplo HTML, CSS, JavaScript, MongoDB. Usar keywords.
-    - **[7:55]** Incluir las funciones ejecutadas y logros realizados (e.g. Implementado TDD, trabajado en un ambiente remoto, proyectos realizados incluyendo descripción y librerías/herramientas usadas).
-    - **[8:08]** Si es posible, incluir aptitudes interpersonales. ej: Trabajado usando pair programming y trabajado en un ambiente remoto con gente alrededor del mundo.
-    - **[8:24]** Agregar proyectos en los cuales se ha participado (e.g. Collab Lab), incluyendo las librerías y/o herramientas que se han usado para construir el proyecto.
+   - **[7:34]** Remover frases como "different technologies, languages, and frameworks", y en lugar de eso ser más explícito e incluir por ejemplo HTML, CSS, JavaScript, MongoDB. Usar keywords.
+   - **[7:55]** Incluir las funciones ejecutadas y logros realizados (e.g. Implementado TDD, trabajado en un ambiente remoto, proyectos realizados incluyendo descripción y librerías/herramientas usadas).
+   - **[8:08]** Si es posible, incluir aptitudes interpersonales. ej: Trabajado usando pair programming y trabajado en un ambiente remoto con gente alrededor del mundo.
+   - **[8:24]** Agregar proyectos en los cuales se ha participado (e.g. Collab Lab), incluyendo las librerías y/o herramientas que se han usado para construir el proyecto.
 
 ### **[9:05] Education / Educación**
 
@@ -147,8 +147,8 @@ Acá está el video: [https://www.loom.com/share/23450a56da8f4d4996177b4e8e55673
 - Opción que permite mostrar a los reclutadores de que estás abierto a buscar empleos.
 - Esto lo puedes configurar en tus settings.
 - Hay dos opciones:
-    - **[7:26]** Una pública, que todo el mundo puede ver, y que se muestra en tu foto de perfil como un banner verde.
-    - **[7:36]** Una privada, que solo los reclutadores pueden ver.
+   - **[7:26]** Una pública, que todo el mundo puede ver, y que se muestra en tu foto de perfil como un banner verde.
+   - **[7:36]** Una privada, que solo los reclutadores pueden ver.
 
 
 > 📢 **[8:32]** Ahora que hemos visto todo esto, es su turno de actualizar su perfil de LinkedIn y una vez finalicen, **envíen esto a su mentor para poder recibir feedback**.

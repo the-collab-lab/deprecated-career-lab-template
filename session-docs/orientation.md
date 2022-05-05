@@ -1,7 +1,7 @@
 # Sync: Career Lab kickoff
 
 > **Presenters:** @Andrew Hedges & @Stacie Taylor
-> 
+>
 # Let’s do this! Let’s get you that first/next tech job!!!
 
 Your mentors have been working super hard to put together a program we think is going to kick start your job search. We couldn’t be more excited to spend the 2 weeks of our very first Career Lab helping get you to a spot where you make a good first impression to recruiters and hiring managers!
