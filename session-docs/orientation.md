@@ -1,4 +1,4 @@
-# Sync: Career Lab kickoff
+# Sync: Career Lab Kickoff
 
 # Let’s do this! Let’s get you that first/next tech job!!!
 
