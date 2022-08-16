@@ -1,8 +1,8 @@
-# Sync: How to tell your story
+# Async: How to tell your story
 
 > **Presenter:** @Lisa Smith
 > 
-> **Homework:** After the presentation, work in a group on the Storytelling Worksheet below.
+> **Homework:** After the presentation, use the Storytelling Worksheet below to construct your story.
 
 **Storytelling Worksheet**
 

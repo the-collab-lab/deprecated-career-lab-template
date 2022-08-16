@@ -1,5 +1,3 @@
-# Sync: Career Lab graduation 🎉
-
-> **Presenters:** @Andrew Hedges & @Stacie Taylor
+# Sync: Career Lab Graduation 🎉
 
 Let's celebrate and talk about your Career Lab experience! 
