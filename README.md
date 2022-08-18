@@ -5,8 +5,8 @@
 1. get the interview, and
 2. do well in the interview.
 
-| Date/ Date Range                            | Type  | Session                                                                                                  |
-| ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- | --- |
+| Date/ Date Range                            | Type  | Session |
+| ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- |
 | Sun, [DATE]                                 | Sync  | [Career Lab Orientation](./session-docs/orientation.md)                                                  |
 | Sun, [DATE] - Fri, [DATE]                   | Async | [What to include on your Linkedin profile](./session-docs/what-to-include-on-linkedin.md)                |
 | Tues, [DATE]                                | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
