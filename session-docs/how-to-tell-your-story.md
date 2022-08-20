@@ -2,7 +2,8 @@
 
 > **Presenter:** @Lisa Smith
 > 
-> **Homework:** After the presentation, use the Storytelling Worksheet below to construct your story.
+> [WATCH THIS RECORDED SESSION](https://www.youtube.com/watch?v=Zhtd-DdTwSs), find a friend, tell them your story, and work on the Storytelling Worksheet below.
+> 
 
 **Storytelling Worksheet**
 
