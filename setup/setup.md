@@ -13,4 +13,4 @@
   - [ ] Invite all participants and mentors with Write access to the repo (get emails from spreadsheet: https://docs.google.com/spreadsheets/d/1Np0dlXasvadeVXBpzkOEuf7qmuqMoGdVRml48m5Duq8/edit#gid=0) 
   - [ ] Fill in the event times
   - [ ] Creating pairing for all sync sessions and put them in the session files
-- [ ] Make sure mentors have training, whether that is sync or async 
+- [ ] Announce final mentor volunteer participation and make sure mentors have the appropriate training, whether that is sync or async 
