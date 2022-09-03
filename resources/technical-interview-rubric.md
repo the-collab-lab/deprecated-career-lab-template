@@ -127,7 +127,7 @@
 </table>
 
 ## React
-### 1. Whay are `state` and `props` in React? How are they best used?
+### 1. What are `state` and `props` in React? How are they best used?
 
 <table>
 <tbody>
