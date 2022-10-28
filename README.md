@@ -12,6 +12,7 @@
 | Tues, [DATE]                                | Async | [How to tell your story](./session-docs/how-to-tell-your-story.md)                                       |
 | Wed, [DATE] - Sat, [DATE]                   | Async | [Mentors review Linkedin profiles](./session-docs/mentor-linkedin-review.md)                             |
 | Fri, March 10th @ 1PM PT                    | Sync  | [Q&A with a recruiter](./session-docs/q-and-a-with-recruiter.md)                                         |
+| Thurs, [DATE]                               | Async  | [What to ask your interviewers](./session-docs/what-to-ask-your-interviewers.md)                                       |
 | Thurs, [DATE]                               | Sync  | [Watch our mentors interview each other](./session-docs/watch-mentors-interview.md)                      |
 | Sun, [DATE] - your technical mock interview | Async | [Complete take-home assignment](./session-docs/complete-take-home-assignment.md)                         |
 | Sat, [DATE] - your mock interviews          | Sync  | [Pair interview practice](./session-docs/pair-interview-practice.md)                                     |
