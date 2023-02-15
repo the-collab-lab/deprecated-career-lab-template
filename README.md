@@ -5,6 +5,8 @@
 1. get the interview, and
 2. do well in the interview.
 
+## Schedule
+
 ### Week One - LinkedIn
 | Date/ Date Range                            | Type  | Session |
 | ------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------- |
@@ -27,3 +29,7 @@
 | Mon, [DATE] - Sat, [DATE]                   | Sync  | [Job fit mock interview](./session-docs/mock-interview-job-fit.md)                                       |
 | Thurs, [DATE]                               | Sync  | [Navigating finances during a career change](./session-docs/navigating-finances-during-career-change.md) |
 | Sun, [DATE]                                 | Sync  | [Graduation](./session-docs/graduation.md)                                                               |
+
+## Additional Resources
+
+As you work your way through this program or once you have completed it, we encourage you to look into the [job search resources](https://github.com/the-collab-lab/job-search-resources) we've collected for you! You can think of this as a supplement to Career Lab - there's resources on topics we don't have time to cover in this program (like resume writing tips and resources for practicing coding challenges).
