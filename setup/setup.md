@@ -2,7 +2,9 @@
 
 - [ ] Reach out to specific mentors to see about running all the Sync sessions listed on the README (if needed, we can just schedule them for whenever and change when we firm up the dates)
 - [ ] Create calendar events for each session
-    - [ ] Add Zoom links to each calendar event and make sure there is a host
+    - [ ] [The Career Lab Assistant Zap here](https://zapier.com/editor/192533781/draft/192533782/setup) will create placeholder events 4 weeks before the Career Lab event starts on the shared Collab Lab calendar. 
+    - [ ] Schedule those calendar events for the real time that works for all volunteers and hosts. 
+    - [ ] Add Zoom links to each calendar event and make sure there is a host.
 - [ ] Update [Zap that when a Collabie reactji's confirming participation, it adds them to all the spreadsheet and calendar events](https://zapier.com/editor/164630788/published/164630911) 
 - [ ] Update Zap that when a Mentor reactji's confirming volunteer participation, it adds them to all the spreadsheet and calendar events 
   - [ ] https://zapier.com/webintent/edit-zap/165061885
